@@ -33,10 +33,10 @@ https://bothub.studio/docs/bothub-cli/
 
 ## 메신저 채널 연동
 
-> 카카오톡: [https://medium.com/bothub-studio-ko/python%EC%9C%BC%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B9%9C%EA%B5%AC-%EC%B1%97%EB%B4%87-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-66e364e0d764](https://medium.com/bothub-studio-ko/python%EC%9C%BC%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B9%9C%EA%B5%AC-%EC%B1%97%EB%B4%87-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-66e364e0d764)
+> 카카오톡: [Python으로 카카오톡 플러스친구 챗봇 시작하기](https://medium.com/bothub-studio-ko/python%EC%9C%BC%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B9%9C%EA%B5%AC-%EC%B1%97%EB%B4%87-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-66e364e0d764)
 
-> 페이스북: [https://medium.com/bothub-studio/build-a-facebook-chatbot-in-python-3b6c7a671c6c](https://medium.com/bothub-studio/build-a-facebook-chatbot-in-python-3b6c7a671c6c)
+> 페이스북: [Python으로 Facebook 챗봇 시작하기](https://medium.com/bothub-studio-ko/python%EC%9C%BC%EB%A1%9C-facebook-%EC%B1%97%EB%B4%87-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-17d24c8b136f)
 
-> 텔레그램: [https://medium.com/bothub-studio/build-a-telegram-chatbot-with-python-2dafd6c033bd](https://medium.com/bothub-studio/build-a-telegram-chatbot-with-python-2dafd6c033bd)
+> 텔레그램: [Python으로 Telegram 챗봇 시작하기](https://medium.com/bothub-studio-ko/python%EC%9C%BC%EB%A1%9C-telegram-%EC%B1%97%EB%B4%87-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-617f222dd393)
 
-> 슬랙: [https://medium.com/bothub-studio/build-a-slack-chatbot-in-python-eadc27dea15e](https://medium.com/bothub-studio/build-a-slack-chatbot-in-python-eadc27dea15e)
+> 슬랙: [Python으로 Slack 챗봇 시작하기](https://medium.com/bothub-studio/build-a-slack-chatbot-in-python-eadc27dea15e)
