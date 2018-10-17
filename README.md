@@ -18,6 +18,20 @@
 
 추가적으로 바로 Telegram, Slack Channel에 연동을 해보았다.
 
+[Kakao]
+
+<img src='https://github.com/turlvo/where-is-my-customs/blob/master/img/kakao.jpg' height=450>
+
+
+[Telegram]
+
+<img src='https://github.com/turlvo/where-is-my-customs/blob/master/img/telegram.png' height=450>
+
+
+[Slack]
+
+<img src='https://github.com/turlvo/where-is-my-customs/blob/master/img/slack.png' height=450>
+
 
 
 ## 개발 가이드
