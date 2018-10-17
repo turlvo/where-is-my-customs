@@ -31,8 +31,8 @@ def find_by_hbl(hbl_no):
         'qryTp': '2',
         'cargMtNo': '',
         'mblNo': '',
-        'hblNo': f'{hbl_no}',
-        'blYy': f'{datetime.datetime.today().year}'
+        'hblNo': {hbl_no},
+        'blYy': {datetime.datetime.today().year}
     }
 
     response = requests.post(

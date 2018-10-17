@@ -281,5 +281,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# BotHub.Studio
+.bothub-meta
 
 # End of https://www.gitignore.io/api/code,venv,macos,python,windows,pycharm+all,jupyternotebook
