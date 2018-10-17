@@ -6,12 +6,13 @@
 
 > 슬랙 봇: [https://slack.com/oauth/authorize?client_id=348013015907.457336386448&scope=bot](https://slack.com/oauth/authorize?client_id=348013015907.457336386448&scope=bot)
 
+
 직구 진행시 조회가 불편 했던 세관 진행사항을,
 
 능력자분께서 '카카오톡'을 이용해서 쉽게 조회할 수 있게 만들어 주셨다..
-> 카카오톡 봇: [https://pf.kakao.com/_xdxnfMj](https://pf.kakao.com/_xdxnfMj)
 
 > Githhub : [https://github.com/Beomi/where-is-my-customs/issues](https://github.com/Beomi/where-is-my-customs/issues)
+
 
 그 봇을 BotHub.Studio로 올리는 작업과,
 
@@ -26,7 +27,7 @@ BotHub.Studio는 Python3.5을 사용합니다.
 
 ### 패키지 설치 
 
-환경으 아래 참고
+패키지 설치는 아래 참고
 https://bothub.studio/docs/bothub-cli/
 
 
